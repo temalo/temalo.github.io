@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+My name is Ted Malone. Welcome to my blog. I am currently a data and AI solution architect for Microsoft in our Customer Success Organization, West US Enterprise Commercial..
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Basically I am a data platform professional. I am deeply involved with database technologies and associated analytics as well as merging Business Intelligence Development processes into agile methodologies. I am also heavily involved with “Big Data” and “Advanced Analytics” as well as Machine Learning and Artificial Intelligence. (I was considered a “Data Scientist” before Data Science was “Cool”). I was the lead visionary for Big Data, Machine Learning and Advanced Analytics solutions for our Federal Customers at Microsoft but have recently made the jump to support large enterprise customers in the Desert Southwest. Prior to joining Microsoft I was a Microsoft Visual Studio ALM MVP with a focus towards “Data Dude” and “Agile Database Methodologies”. I spend much of my time today helping our customers understand and visualize how “Big Data Analytics” and Machine Learning technologies can enhance their mission.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This should go without saying, but just to make sure that we are clear, this blog is my own personal blog. The opinions expressed here are mine and definitely are not meant to represent official Microsoft policy in any way, shape, or form.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Specialties: Data Science, Big Data, Machine Learning, R, Agile Development, SQL Server, Business Intelligence, Visual Studio, Hadoop, Storm, Kafka, Internet of Things.
